@@ -1,4 +1,4 @@
-package cn.edu.zju.cst.examples.observer.weatherStation.use.jdk;
+package cn.edu.zju.cst.examples.design.pattern.observer.weatherStation.use.jdk;
 
 import java.util.Observable;
 

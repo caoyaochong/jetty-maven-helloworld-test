@@ -1,4 +1,4 @@
-package cn.edu.zju.cst.examples.observer.weatherStation;
+package cn.edu.zju.cst.examples.design.pattern.observer.weatherStation;
 
 import java.util.ArrayList;
 
