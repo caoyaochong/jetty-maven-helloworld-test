@@ -1,4 +1,4 @@
-package cn.edu.zju.cst.examples.design.pattern.factory.simple2;
+package cn.edu.zju.cst.examples.design.pattern.factory.factoryMethod;
 
 public abstract class PizzaStore {
 	
